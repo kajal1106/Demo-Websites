@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "compile:sass": "node-sass sass/main.scss css/style.css --watch --usePolling"
+    "compile:sass": "node-sass sass/main.scss css/style.css --usePolling"
   },
   "author": "Kajal Singh",
   "license": "ISC",
